@@ -33,9 +33,9 @@ Se agregó la línea #:set ff=unix a los 2 script para una mejor compatibilidad 
 
 ## Ejecución ▶
 
-Dentro de src/ ejecute la instrucción: ./nombre_script.sh.
-
+Utilizando la consola posicionarse dentro de src/ y ejecutar la instrucción: ./nombre_script.sh.
 nombre_script = {calendario, proceso}.
+O simplemente de doble click sobre el script.
 
 ## Wiki 📚
 

@@ -3,7 +3,7 @@
 Este proyecto está basado en el aprendizaje de comandos del Shell de Linux, utilización de opciones y parámetros, la manera en la que estos se pueden conectar para formar operaciones "anidadas" y así utilizarlos en scripts para resolver problemas.
 
 
-## Pre-requisitos ⚙️
+## Requisitos ⚙️
 
 Para le ejecución del script se debe contar con alguna de las siguientes opciones:
 

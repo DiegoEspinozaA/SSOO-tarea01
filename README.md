@@ -1,4 +1,4 @@
-# SSOO-tarea01
+# SSOO-tarea01 💻
 
 Este proyecto está basado en el aprendizaje de comandos del Shell de Linux, utilización de opciones y parámetros, la manera en la que estos se pueden conectar para formar operaciones "anidadas" y así utilizarlos en scripts para resolver problemas.
 

@@ -27,7 +27,7 @@ $@: Devuelve una lista con los parametros pasados al script.
 Se utiliza un ciclo para recorrer $@ e imprimirlos con su respectivo índice.
 Para obtener el PID del proceso se define una variable, se muestra por pantalla y luego esta misma es utilizada para llamar las 10 primeras líneas del archivo status del proceso utilizando el comando head -10.
 
-## Adicional 📦
+## Adicional 📝
 
 Se agregó la línea #:set ff=unix a los 2 script para una mejor compatibilidad con Windows.
 

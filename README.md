@@ -34,6 +34,7 @@ Se agregó la línea #:set ff=unix a los 2 script para una mejor compatibilidad 
 ## Ejecución ▶
 
 Dentro de src/ ejecute la instrucción: ./nombre_script.sh.
+
 nombre_script = {calendario, proceso}.
 
 ## Wiki 📚
